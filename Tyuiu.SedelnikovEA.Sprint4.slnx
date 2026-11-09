@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task0.V5.Lib/Tyuiu.SedelnikovEA.Sprint4.Task0.V5.Lib.csproj" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task0.V5.Test/Tyuiu.SedelnikovEA.Sprint4.Task0.V5.Test.csproj" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task0.V5/Tyuiu.SedelnikovEA.Sprint4.Task0.V5.csproj" />
+  </Folder>
+  <Folder Name="/Task1/" />
+  <Folder Name="/Task2/" />
+  <Folder Name="/Task3/" />
+  <Folder Name="/Task4/" />
+  <Folder Name="/Task5/" />
+  <Folder Name="/Task6/" />
+  <Folder Name="/Task7/" />
+</Solution>
