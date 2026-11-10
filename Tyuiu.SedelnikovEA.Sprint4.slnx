@@ -35,8 +35,8 @@
     <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task6.V25/Tyuiu.SedelnikovEA.Sprint4.Task6.V25.csproj" Id="219f4b1c-b96d-4685-b197-309a95fb47fc" />
   </Folder>
   <Folder Name="/Task7/">
-    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task7.V21.Lib/Tyuiu.SedelnikovEA.Sprint4.Task7.V12.Lib.csproj" Id="bae468f8-64e6-4848-a0cf-bc26d4ed4c08" />
-    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task7.V21.Test/Tyuiu.SedelnikovEA.Sprint4.Task7.V12.Test.csproj" Id="c9419439-da69-428c-a568-d23df94a478e" />
-    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task7.V21/Tyuiu.SedelnikovEA.Sprint4.Task7.V12.csproj" Id="35a5e88d-d16f-4eb4-a7d2-1441e46ebb0d" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task7.V12.Lib/Tyuiu.SedelnikovEA.Sprint4.Task7.V12.Lib.csproj" Id="c276adc3-b42d-43db-8ff3-e58b32b20fa8" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task7.V12.Test/Tyuiu.SedelnikovEA.Sprint4.Task7.V12.Test.csproj" Id="d0737b24-79f3-4603-a17c-60f8ab7a1762" />
+    <Project Path="Tyuiu.SedelnikovEA.Sprint4.Task7.V12/Tyuiu.SedelnikovEA.Sprint4.Task7.V12.csproj" Id="859efb27-3c95-4120-b898-9f0fe1db5575" />
   </Folder>
 </Solution>
